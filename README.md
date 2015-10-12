@@ -10,3 +10,5 @@ phonegp doc
 [create database sqlite](http://www.excellentwebworld.com/integrate-sqlite-plugin-in-phonegap-for-android-and-ios.html)
 
 [How to use sqlite database in phonegap](http://www.thecreativedev.com/how-to-use-sqlite-database-in-phonegap/)
+
+[create db with sqlite](https://www.youtube.com/watch?v=DZSZIfhzc3A)
